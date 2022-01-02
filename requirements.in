@@ -1,0 +1,17 @@
+# This is `requirements.in`
+
+# This file contains the name of packages you need for running your package or
+# program, one per line. Note: packages needed for development should not be
+# listed here. Also: in this file, you typically *do not* include versions of
+# packages, or just specify mayor version.
+
+# There is another file: `requirements.txt` where you add detailed versions of
+# packages. `requirements.txt` is typically generated automatically.
+
+# Some ways `requirements.txt` could be generated:
+
+#   ```pip freeze > requirements.txt```                          # unix
+#   ```pip freeze | out-file requirements.txt -encoding utf-8``` # windows
+#   ```pip-compile -o requirements.txt requirements.in```        # better
+
+wheel

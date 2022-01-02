@@ -1,0 +1,4 @@
+This is an example `tests` directory.
+
+Python has several packages for running tests. `unittest` is in the standard
+library. I prefer `pytest` myself.

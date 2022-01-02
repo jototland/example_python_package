@@ -1,0 +1,11 @@
+# This is requirements-dev.in
+#
+# This file contains the name of packages you need during development, but not
+# just for running, one per line. Also: in this file, you *do not* include
+# versions of packages.
+#
+# There is another file: `requirements-dev.txt` where you could add versions of
+# packages. But for most users, there is little to be gained by doing that. If
+# you really need it, do it the same way you generate `requirements.txt`
+
+pytest

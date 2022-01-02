@@ -1,0 +1,4 @@
+include requirements.in
+graft mypackage
+graft tests
+global-exclude __pycache__
